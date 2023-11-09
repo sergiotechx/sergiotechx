@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/sergiotechx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sergiotechx/" height="30" width="40" /></a>
 <a href="https://twitter.com/sergiotechx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergiotechx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergio-martinez-1599569/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-martinez-1599569/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sergiotechx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-martinez-1599569/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
