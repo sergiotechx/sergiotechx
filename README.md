@@ -7,7 +7,7 @@
 <p>
 <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-0e75b6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Medellín, Colombia" />
 <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat-square" alt="Open to work" />
-<img src="https://komarev.com/ghpvc/?username=sergiotechx&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views counter" />
+<a href="https://github.com/sergiotechx?tab=followers"><img src="https://img.shields.io/github/followers/sergiotechx?style=flat-square&label=Followers&color=0e75b6&logo=github" alt="GitHub followers of sergiotechx" /></a>
 </p>
 
 </div>
