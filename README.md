@@ -73,6 +73,11 @@
 ## ✍️ Latest posts · Últimos artículos
 
 <!-- BLOG-POST-LIST:START -->
+- [get set Hola mundo en Soroban😀](https://dev.to/sergiotechx/get-set-hola-mundo-en-soroban-16mm)
+- [Segundos pasos con el cliente de Stellar](https://dev.to/sergiotechx/segundos-pasos-con-el-cliente-de-stellar-194b)
+- [Primeros pasos con el cliente de Stellar](https://dev.to/sergiotechx/primeros-pasos-con-el-cliente-de-stellar-l9o)
+- [Instalación entorno desarrollo Stellar 😎](https://dev.to/sergiotechx/instalacion-entorno-desarrollo-stellar-29pp)
+- [Analizando el &quot;Hola mundo&quot; en NEAR Contrato y Frontend 🤠](https://dev.to/sergiotechx/analizando-el-hola-mundo-en-near-contrato-y-frontend-1lpf)
 <!-- BLOG-POST-LIST:END -->
 
 → [All posts on dev.to](https://dev.to/sergiotechx)
